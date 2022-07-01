@@ -1,4 +1,4 @@
-package qq;
+
 
 
 import java.util.Scanner;
